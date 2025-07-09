@@ -1,4 +1,4 @@
-"# 🥔 Potato Skin Disease Detection Using Deep Learning
+# 🥔 Potato Skin Disease Detection Using Deep Learning
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
@@ -283,8 +283,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: Lucky Sharma
 - **Email**: panditluckysharma42646@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **LinkedIn**: https://www.linkedin.com/in/lucky-sharma918894599977
+- **GitHub**: https://github.com/itsluckysharma01
 
 ---
 
